@@ -66,3 +66,5 @@ C:\Users\tatiana.ten\source\repos\SpendSmart\SpendSmart\bin\Debug\net8.0\runtime
 C:\Users\tatiana.ten\source\repos\SpendSmart\SpendSmart\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\tatiana.ten\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.AssemblyReference.cache
 C:\Users\tatiana.ten\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.Up2Date
+C:\Users\tatiana.ten\source\repos\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.sourcelink.json
+C:\Users\tatiana.ten\source\repos\SpendSmart\SpendSmart\bin\Debug\net8.0\libman.json
